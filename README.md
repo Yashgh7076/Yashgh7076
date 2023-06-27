@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashgh7076
+- 👋 Hi, I’m Yadnyesh
 - 👀 I’m interested in machine learning, computer vision and data science related projects.
 - 🌱 I’m currently learning programming in C++ and OpenCV (C++ interface).
 - 💞️ I’m looking to collaborate on open research, commercial projects in C, Python and C++.
